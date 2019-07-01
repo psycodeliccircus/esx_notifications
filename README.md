@@ -23,6 +23,10 @@ git clone https://github.com/esx-brasil/esx_notifications
 ```
 start esx_notifications
 ```
+## Creditos
+
+- [qalle-fivem](https://github.com/qalle-fivem) - Dev
+
 
 ## Exemplos
 
